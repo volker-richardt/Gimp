@@ -3,3 +3,4 @@
 ### Symbole größer
 ### Endungen in Windows anzeigen
 ### Docks zurücksetzen
+### Werkzeuggruppen
