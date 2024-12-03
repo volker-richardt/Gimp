@@ -1,9 +1,13 @@
 # Gimp
-## Dateien/Übungen
-### Symbole größer
-### Endungen in Windows anzeigen
-### Docks zurücksetzen
-### Werkzeuggruppen
+## Gimp einrichten
+
+|Gimp einrichten|xxx|
+
+
+
+Folgt:
+Docks zurücksetzen
+Werkzeuggruppen
 
 Beispielbild: 
 https://pixabay.com/de/photos/spuren-sand-strand-802778/
