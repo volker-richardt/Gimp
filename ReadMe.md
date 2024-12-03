@@ -3,7 +3,7 @@
 
 |Thema|Datei|
 |----|----|
-|Gimp einrichten|Datei|
+|Gimp einrichten|Gimp einrichten.odt|
 
 
 
