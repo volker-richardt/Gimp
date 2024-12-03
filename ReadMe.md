@@ -1,7 +1,9 @@
 # Gimp
 ## Gimp einrichten
 
-|Gimp einrichten|xxx|
+|Thema|Datei|
+|----|----|
+|Thema|Datei|
 
 
 
