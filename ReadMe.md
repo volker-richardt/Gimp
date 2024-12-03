@@ -3,7 +3,7 @@
 
 |Thema|Datei|
 |----|----|
-|Thema|Datei|
+|Gimp einrichten|Datei|
 
 
 
